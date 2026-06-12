@@ -1,6 +1,6 @@
-Questo progetto è stato svolto per l'esame di Laboratorio 3 presso l'Università di Pisa nella facoltà di Informatica superato con la valutazione di 30 e lode.
+Questo progetto è stato svolto per l'esame di Laboratorio 3 presso l'Università di Pisa nella facoltà di Informatica, superato con la valutazione di 30 e lode.
 
-Lo scopo del progetto è stato di creare un applicazione client-server che simulasse il gioco "Connections" presente sul sito del New York Times.
+Lo scopo del progetto è stato di creare un' applicazione client-server che simulasse il gioco "Connections" presente sul sito del New York Times.
 I requisiti implementativi richiedevano l'utilizzo di Java NIO per i Client, trasmissione di messaggi JSON tra client e server, salvataggio di dati su file persistenti in formato .json, l'utilizzo di Java RMI e un servizio di notifiche asincrone tramite il protocollo UDP.
 Il client implementa una TUI per favorire la navigabilità.
 Ulteriori dettagli implementativi e guida all'utilizzo sono presenti nella Relazione.
